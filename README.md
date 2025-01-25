@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=30&center=true&vCenter=true&width=600&height=100&lines=Hello!;Welcome+to+my+gihub+profile">
 </p>
 <p align="center">
-	<picture><img src = "https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" width = 300px></picture>
+	<picture><img src = "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 600px></picture>
 </p>
 <p align="center">
   <b>🌟 About Me:</b>
@@ -19,15 +19,15 @@
 ## 🛠️ Technologies that I know
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,tailwind,bootstrap,redux,mysql&perline=14" />
-    <img src="https://skillicons.dev/icons?i=python,java,cs,flutter,cpp,nextjs,,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,&perline=14" />
   </a>
 </p>
 
 
 ## 🔗 Connect with me:
 <p align="left">
-	<a href="https://www.linkedin.com/in//" target="blank">
+	<a href="https://www.linkedin.com/in/margav-cse-mr07/" target="blank">
 		<img align="center" src="https://www.pinclipart.com/picdir/middle/97-971470_linkedin-linkedin-social-media-icons-clipart.png" height="40" width="40" />
 	</a>
 </p>
