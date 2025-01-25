@@ -12,7 +12,7 @@
     <li>🔭 I’m currently working on web development projects.</li>
     <li>🌱 I’m actively learning web development.</li>
     <li>💡 I like to explore and learn new things.</li>
-    <li>⚡ Fun fact: I love to play cricket and video games in free time.</li>
+    <li>⚡ Fun fact: I like to play video games in liesure time.</li>
   </ul>
 </p>
 
