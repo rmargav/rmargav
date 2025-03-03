@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=30&center=true&vCenter=true&width=600&height=100&lines=Hello!;Welcome+to+my+gihub+profile">
 </p>
 <p align="center">
-	<picture><img src = "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 600px></picture>
+	<picture>
+		<img src = "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 600px>
+	</picture>
 </p>
 <p align="center">
   <b>🌟 About Me:</b>
