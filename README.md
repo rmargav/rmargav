@@ -37,6 +37,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </a>
+ <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript Icon" />
+ </a>
+ <a href="https://angular.io/">
+   <img src="https://skillicons.dev/icons?i=angular" alt="Angular Icon" />
+ </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </a>
