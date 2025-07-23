@@ -58,6 +58,7 @@
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   </a>
+  <br>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   </a>
