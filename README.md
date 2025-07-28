@@ -68,6 +68,9 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   </a>
+ <a href="https://www.figma.com/" target="_blank">
+   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+ </a>
 </p>
 
 ## 🔗 Connect with me:
